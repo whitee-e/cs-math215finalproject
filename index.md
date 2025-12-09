@@ -65,44 +65,44 @@ Going beyond the scope of dementia and cognitive disorders, future work is neede
 <br>	
 
 ## References:
-“Deaths from Alzheimer’s.” Our World in Data, [https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest](https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest). Accessed 6 Dec. 2025.
-“GDP per Capita.” Our World in Data, https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=earliest..latest. Accessed 6 Dec. 2025.
+(1) “Deaths from Alzheimer’s.” Our World in Data, [https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest](https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest). Accessed 6 Dec. 2025.
+(2) “GDP per Capita.” Our World in Data, https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=earliest..latest. Accessed 6 Dec. 2025.
 <br>
 <br>
-Global Health Estimates. [https://www.who.int/data/global-health-estimates](https://www.who.int/data/global-health-estimates). Accessed 6 Dec. 2025.
+(3) Global Health Estimates. [https://www.who.int/data/global-health-estimates](https://www.who.int/data/global-health-estimates). Accessed 6 Dec. 2025.
 <br>
 <br>
-Karami, Bassel. “Biased Model Coefficients - (Part 1).” Towards Data Science, 17 Jan. 2022, [https://towardsdatascience.com/biased-model-coefficients-part-1-2722128b9e1c/](https://towardsdatascience.com/biased-model-coefficients-part-1-2722128b9e1c/).
+(4) Karami, Bassel. “Biased Model Coefficients - (Part 1).” Towards Data Science, 17 Jan. 2022, [https://towardsdatascience.com/biased-model-coefficients-part-1-2722128b9e1c/](https://towardsdatascience.com/biased-model-coefficients-part-1-2722128b9e1c/).
 <br>
 <br>
-“Monaco Population 2025.” World Population Review, 5 Dec. 2025, [https://worldpopulationreview.com/countries/monaco](https://worldpopulationreview.com/countries/monaco).
+(5) “Monaco Population 2025.” World Population Review, 5 Dec. 2025, [https://worldpopulationreview.com/countries/monaco](https://worldpopulationreview.com/countries/monaco).
 <br>
 <br>
-“Population.” Our World in Data, [https://ourworldindata.org/grapher/population-with-un-projections?tab=map&time=earliest..2100](https://ourworldindata.org/grapher/population-with-un-projections?tab=map&time=earliest..2100). Accessed 6 Dec. 2025.
+(6) “Population.” Our World in Data, [https://ourworldindata.org/grapher/population-with-un-projections?tab=map&time=earliest..2100](https://ourworldindata.org/grapher/population-with-un-projections?tab=map&time=earliest..2100). Accessed 6 Dec. 2025.
 <br>
 <br>
-Tanti, Cassandra. “Residents with Alzheimer’s, Cognitive Disorders to Get Free Access to Centre.” Monaco Life, 4 May 2023, [https://monacolife.net/residents-with-alzheimers-cognitive-disorders-to-get-free-access-to-centre/](https://monacolife.net/residents-with-alzheimers-cognitive-disorders-to-get-free-access-to-centre/).
+(7) Tanti, Cassandra. “Residents with Alzheimer’s, Cognitive Disorders to Get Free Access to Centre.” Monaco Life, 4 May 2023, [https://monacolife.net/residents-with-alzheimers-cognitive-disorders-to-get-free-access-to-centre/](https://monacolife.net/residents-with-alzheimers-cognitive-disorders-to-get-free-access-to-centre/).
 <br>
 <br>
-Țarcă, Viorel, et al. “Social and Economic Determinants of Life Expectancy at Birth in Eastern Europe.” Healthcare, vol. 12, no. 11, June 2024, p. 1148. PubMed Central, [https://doi.org/10.3390/healthcare12111148](https://doi.org/10.3390/healthcare12111148).
+(8) Țarcă, Viorel, et al. “Social and Economic Determinants of Life Expectancy at Birth in Eastern Europe.” Healthcare, vol. 12, no. 11, June 2024, p. 1148. PubMed Central, [https://doi.org/10.3390/healthcare12111148](https://doi.org/10.3390/healthcare12111148).
 <br>
 <br>
-“Understanding How Dementia Causes Death.” Columbia Neurology, 14 Mar. 2023, [https://www.neurology.columbia.edu/news/understanding-how-dementia-causes-death-0](https://www.neurology.columbia.edu/news/understanding-how-dementia-causes-death-0).
+(9) “Understanding How Dementia Causes Death.” Columbia Neurology, 14 Mar. 2023, [https://www.neurology.columbia.edu/news/understanding-how-dementia-causes-death-0](https://www.neurology.columbia.edu/news/understanding-how-dementia-causes-death-0).
 <br>
 <br>
-“What Is Dementia? Symptoms, Causes & Treatment | Alz.Org.” Alzheimer’s Association, [https://www.alz.org/alzheimers-dementia/what-is-dementia](https://www.alz.org/alzheimers-dementia/what-is-dementia). Accessed 6 Dec. 2025.
+(10) “What Is Dementia? Symptoms, Causes & Treatment | Alz.Org.” Alzheimer’s Association, [https://www.alz.org/alzheimers-dementia/what-is-dementia](https://www.alz.org/alzheimers-dementia/what-is-dementia). Accessed 6 Dec. 2025.
 <br>
 <br>
-WHO Methods and Data Sources for Country-Level Causes of Death 2000-2021. World Health Organization, May 2024, [https://cdn.who.int/media/docs/default-source/gho-documents/global-health-estimates/ghe2021_cod_methods.pdf](https://cdn.who.int/media/docs/default-source/gho-documents/global-health-estimates/ghe2021_cod_methods.pdf).
+(11) WHO Methods and Data Sources for Country-Level Causes of Death 2000-2021. World Health Organization, May 2024, [https://cdn.who.int/media/docs/default-source/gho-documents/global-health-estimates/ghe2021_cod_methods.pdf](https://cdn.who.int/media/docs/default-source/gho-documents/global-health-estimates/ghe2021_cod_methods.pdf).
 <br>
 <br>
-“World Bank Open Data.” World Bank Open Data, [https://data.worldbank.org](https://data.worldbank.org). Accessed 6 Dec. 2025.
+(12) “World Bank Open Data.” World Bank Open Data, [https://data.worldbank.org](https://data.worldbank.org). Accessed 6 Dec. 2025.
 <br>
 <br>
-World Health Statistics 2024: Monitoring Health for the SDGs, Sustainable Development Goals. World Health Organization, 21 May 2024, [https://iris.who.int/server/api/core/bitstreams/74b12494-f213-4b5b-9533-18442147e1fb/content](https://iris.who.int/server/api/core/bitstreams/74b12494-f213-4b5b-9533-18442147e1fb/content).
+(13) World Health Statistics 2024: Monitoring Health for the SDGs, Sustainable Development Goals. World Health Organization, 21 May 2024, [https://iris.who.int/server/api/core/bitstreams/74b12494-f213-4b5b-9533-18442147e1fb/content](https://iris.who.int/server/api/core/bitstreams/74b12494-f213-4b5b-9533-18442147e1fb/content).
 <br>
 <br>
-World Population Prospects. [https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used). Accessed 6 Dec. 2025.
+(14) World Population Prospects. [https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used). Accessed 6 Dec. 2025.
 
 
 
