@@ -60,6 +60,8 @@ Going beyond the scope of dementia and cognitive disorders, future work is neede
 
 ## References:
 (1) “Deaths from Alzheimer’s.” Our World in Data, [https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest](https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest). Accessed 6 Dec. 2025.
+<br>
+<br>
 (2) “GDP per Capita.” Our World in Data, https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=earliest..latest. Accessed 6 Dec. 2025.
 <br>
 <br>
