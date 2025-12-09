@@ -24,6 +24,8 @@ Once I had calculated the mortality rate for each country and time point, I gene
 <br>
 <br>
 <br>
+<br>
+<br>
 <iframe src="choropleth_alzheimers.html" width="100%" height="200%" style="border:none;">
   <p>Your browser does not support iframes.</p>
 </iframe>
