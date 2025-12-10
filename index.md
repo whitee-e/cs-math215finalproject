@@ -22,7 +22,7 @@ After loading the data, I began processing the data to answer my first research 
 Once I had calculated the mortality rate for each country and time point, I generated a Plotly choropleth map figure showing the global distribution of dementia mortality rate between 2000 and 2021 (Figure 1). Comparing the 2000 and 2021 data, it’s evident that the dementia mortality rate in many countries has increased. These shifts are most pronounced in parts of North America, Western Europe, and Australia.
 <br>
 <br>
-<iframe src="choropleth_alzheimers.html" width="500%" height="500%" style="border:none;">
+<iframe src="choropleth_alzheimers.html" width="200%" height="1000" style="border:none;">
   <p>Your browser does not support iframes.</p>
 </iframe>
 <br>
