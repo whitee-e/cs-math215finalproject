@@ -35,7 +35,6 @@ I extracted data between 2000 and 2021 from the GDP dataset, then merged it with
 <br>
 <br>
 {% include scatter_gdp.html %}
-</iframe>
 
 __Figure 2__. GDP per capita vs dementia mortality rate in 2000 and 2021. Mortality rates were calculated in terms of deaths per 100,000 people living in a given country. Raw numbers of dementia deaths are from the World Health Organization (2024) with major processing by Our World in Data. Population data is from the UN World Population Prospects (2024) with processing by Our World in Data. This figure shows a visible positive correlation between GDP per capita and dementia mortality rate. The strength of the positive correlation increases from 2000 to 2021 (r values of 0.47 and 0.61, respectively). There are several small outlier countries, deviating from the trend.
 <br>
