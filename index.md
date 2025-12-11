@@ -34,8 +34,7 @@ I was interested in observing the relationship between a country’s total popul
 I extracted data between 2000 and 2021 from the GDP dataset, then merged it with my previously created dataframe that contained the dementia and population data. I noticed that the number of rows in this twice merged dataframe was less than either of the input dataframes, so I inspected the dropped rows to make sure that relevant data wasn’t being dropped. I found that some countries were dropped because they lacked GDP data, and others were dropped because they lacked dementia data. I excluded these countries from my further analysis. Then, I generated an animated scatterplot showing GDP per capita on the x axis and dementia mortality rate on the y axis (Figure 2). 
 <br>
 <br>
-<iframe src="scatter_gdp.html" width="100%" height="100%" style="border:none;">
-  <p>Your browser does not support iframes.</p>
+{% include scatter_gdp.html %}
 </iframe>
 
 __Figure 2__. GDP per capita vs dementia mortality rate in 2000 and 2021. Mortality rates were calculated in terms of deaths per 100,000 people living in a given country. Raw numbers of dementia deaths are from the World Health Organization (2024) with major processing by Our World in Data. Population data is from the UN World Population Prospects (2024) with processing by Our World in Data. This figure shows a visible positive correlation between GDP per capita and dementia mortality rate. The strength of the positive correlation increases from 2000 to 2021 (r values of 0.47 and 0.61, respectively). There are several small outlier countries, deviating from the trend.
