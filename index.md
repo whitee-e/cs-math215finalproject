@@ -53,6 +53,7 @@ Despite its limitations, this project demonstrates the value of data analysis in
 Going beyond the scope of dementia and cognitive disorders, future work is needed to analyze correlations between GDP and other global health measures, and whether substantial international investment has influenced correlations over time. Using data science to evaluate the impact of global funding campaigns on human health is vital to secure future funding, especially in the current time of global health funding hesitancy.
 <br>
 <br>	
+## Colab worksheet linked [here](https://github.com/whitee-e/cs-math215finalproject/blob/main/12_2_25_Final_Proj_v1.ipynb)
 
 ## References:
 (1) “Deaths from Alzheimer’s.” Our World in Data, [https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest](https://ourworldindata.org/grapher/deaths-from-alzheimers-other-dementias?time=2000..latest). Accessed 6 Dec. 2025.
